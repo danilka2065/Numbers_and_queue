@@ -257,6 +257,8 @@ namespace Labs
             }
 
         }
+
+
         public bool compareTo(MyInt vhod_zhach)
         {
             if (Value == vhod_zhach.Value) return true;
@@ -319,7 +321,8 @@ namespace Labs
             else return this;
         }
 
-        //Служебные всякие методы
+        //Служебные методы
+        // AAAAAAAAAA D:
         public long longValue()
         {
             long answer = 0;
