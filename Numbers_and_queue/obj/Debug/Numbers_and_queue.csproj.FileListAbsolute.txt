@@ -1,1 +1,6 @@
 C:\Users\Даниил\Documents\Visual Studio 2012\Projects\Numbers_and_queue\Numbers_and_queue\bin\Debug\Numbers_and_queue.exe.config
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\Numbers_and_queue\Numbers_and_queue\bin\Debug\Numbers_and_queue.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\Numbers_and_queue\Numbers_and_queue\bin\Debug\Numbers_and_queue.pdb
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\Numbers_and_queue\Numbers_and_queue\obj\Debug\Numbers_and_queue.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\Numbers_and_queue\Numbers_and_queue\obj\Debug\Numbers_and_queue.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\Numbers_and_queue\Numbers_and_queue\obj\Debug\Numbers_and_queue.pdb
