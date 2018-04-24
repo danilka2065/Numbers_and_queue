@@ -9,7 +9,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void testFront_mast_odin_dva_tri()
         {
-            Posled<string> new_ob = new Posled<string>();
+            Queue<string> new_ob = new Queue<string>();
             new_ob.pushBack("MarinE");
             new_ob.pushBack("mypoiyfd");
             Assert.AreEqual(new_ob.front(), "MarinE");
@@ -18,7 +18,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void test_popfront_a_b_c_d()
         {
-            Posled<string> new_ob = new Posled<string>();
+            Queue<string> new_ob = new Queue<string>();
             new_ob.pushBack("q");
             new_ob.pushBack("w");
             new_ob.pushBack("e");
@@ -29,7 +29,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void test_popback_d_c_b_a()
         {
-            Posled<string> new_ob = new Posled<string>();
+            Queue<string> new_ob = new Queue<string>();
             new_ob.pushBack("q");
             new_ob.pushBack("w");
             new_ob.pushBack("e");
@@ -41,7 +41,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void test_popfront_popback_a_d_b_c()
         {
-            Posled<string> new_ob = new Posled<string>();
+            Queue<string> new_ob = new Queue<string>();
             new_ob.pushBack("q");
             new_ob.pushBack("w");
             new_ob.pushBack("e");
@@ -53,7 +53,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void test_toArray_a_d_b_c()
         {
-            Posled<int> new_ob = new Posled<int>();
+            Queue<int> new_ob = new Queue<int>();
             new_ob.pushBack(1);
             new_ob.pushBack(2);
             new_ob.pushBack(3);
