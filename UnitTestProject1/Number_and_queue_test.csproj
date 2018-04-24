@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="Numbers_test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Queue_test.cs" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
